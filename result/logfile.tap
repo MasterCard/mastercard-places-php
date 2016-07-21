@@ -1,0 +1,6 @@
+TAP version 13
+ok 1 - MasterCard\Api\Places\GeocodeLocationTest::test_example_geocode_location
+ok 2 - MasterCard\Api\Places\MerchantCategoryCodesTest::test_example_merchantcategorycodes
+ok 3 - MasterCard\Api\Places\MerchantIndustriesTest::test_example_merchantindustries
+ok 4 - MasterCard\Api\Places\MerchantPointOfInterestTest::test_example_merchantpoi
+1..4

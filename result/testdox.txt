@@ -1,0 +1,12 @@
+MasterCard\Api\Places\GeocodeLocation
+ [x] example geocode location
+
+MasterCard\Api\Places\MerchantCategoryCodes
+ [x] example merchantcategorycodes
+
+MasterCard\Api\Places\MerchantIndustries
+ [x] example merchantindustries
+
+MasterCard\Api\Places\MerchantPointOfInterest
+ [x] example merchantpoi
+
