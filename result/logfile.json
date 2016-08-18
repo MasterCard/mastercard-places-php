@@ -1,0 +1,73 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 4
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Places\\GeocodeLocationTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Places\\GeocodeLocationTest",
+    "test": "MasterCard\\Api\\Places\\GeocodeLocationTest::test_example_geocode_location"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Places\\GeocodeLocationTest",
+    "test": "MasterCard\\Api\\Places\\GeocodeLocationTest::test_example_geocode_location",
+    "status": "pass",
+    "time": 0.78881120681763,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Places\\MerchantCategoryCodesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Places\\MerchantCategoryCodesTest",
+    "test": "MasterCard\\Api\\Places\\MerchantCategoryCodesTest::test_example_merchantcategorycodes"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Places\\MerchantCategoryCodesTest",
+    "test": "MasterCard\\Api\\Places\\MerchantCategoryCodesTest::test_example_merchantcategorycodes",
+    "status": "pass",
+    "time": 0.73490977287292,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Places\\MerchantIndustriesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Places\\MerchantIndustriesTest",
+    "test": "MasterCard\\Api\\Places\\MerchantIndustriesTest::test_example_merchantindustries"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Places\\MerchantIndustriesTest",
+    "test": "MasterCard\\Api\\Places\\MerchantIndustriesTest::test_example_merchantindustries",
+    "status": "pass",
+    "time": 0.61398696899414,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Places\\MerchantPointOfInterestTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Places\\MerchantPointOfInterestTest",
+    "test": "MasterCard\\Api\\Places\\MerchantPointOfInterestTest::test_example_merchantpoi"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Places\\MerchantPointOfInterestTest",
+    "test": "MasterCard\\Api\\Places\\MerchantPointOfInterestTest::test_example_merchantpoi",
+    "status": "pass",
+    "time": 1.5791699886322,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
