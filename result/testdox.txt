@@ -1,0 +1,12 @@
+MasterCard\Api\Places\MerchantCategoryCodes
+ [x] example merchantcategorycodes
+
+MasterCard\Api\Places\MerchantIndustries
+ [x] example merchantindustries
+
+MasterCard\Api\Places\MerchantPointOfInterest
+ [x] example merchantpoi
+
+MasterCard\Api\Places\PlaceByLocationId
+ [x] example placeByLocationId
+
